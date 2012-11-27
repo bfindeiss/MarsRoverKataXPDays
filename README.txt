@@ -16,3 +16,11 @@ Implement wrapping from one edge of the grid to another. (planets are spheres af
 Implement obstacle detection before each move to a new square. If a given sequence of commands encounters an obstacle, the rover moves up to the last possible point and reports the obstacle.
 
 (C) http://dallashackclub.com/rover
+---------------------------------------------------------------------------------------------------------------------
+
+A sample Eclipse Maven project including a pom.xml with all necessary dependencies is included in the repository.
+
+To make your start even easier, I even included a first test case :-)
+
+Have fun!
+
